@@ -1,25 +1,22 @@
 {
-  "nome": "Gabriel Supriano Wanderlind",
-  "titulo": "Desenvolvedor de software",
-  "localidade": {
-    "cidade": "São Miguel do Oeste",
-    "estado": "Santa Catarina",
-    "pais": "Brasil"
-  },
-  "telefone": "(48) 99823-8310",
+  "name": "Gabriel Supriano Wanderlind",
+  "photo": "https://avatars.githubusercontent.com/u/77993328",
+  "job": "Desenvolvedor de software",
+  "location": "São Miguel do Oeste/SC",
+  "phone": "(48) 99823-8310",
   "email": "gabriel27sw@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
+        "name": "Android",
         "logo": "TODO"
       },
       {
-        "nome": "JavaScript",
+        "name": "JavaScript",
         "logo": "TODO"
       },
       {
-        "nome": "Flutter",
+        "name": "Flutter",
         "logo": "TODO"
       }
     ],
@@ -32,58 +29,46 @@
       "Organização"
     ]
   },
-  "idiomas": [
+  "language": [
     {
-      "nome": "Português",
+      "name": "Português",
       "nivel": "Nativo"
     },
     {
-      "nome": "Inglês",
+      "name": "Inglês",
       "nivel": "Técnico"
     },
     {
-      "nome": "Espanhol",
+      "name": "Espanhol",
       "nivel": "Básico"
     }
   ],
-  "educacao": [
+  "education": [
     {
-      "nome": "Engenharia de software",
-      "descricao": "",
-      "instituicao": "Uninter",
-      "periodo": {
-        "inicio": "2024",
-        "fim": "Atualmente"
-      }
+      "name": "Engenharia de software",
+      "description": "",
+      "location": "Uninter",
+      "period": "2024"
     },
     {
-      "nome": "Tícnico em Mecatrônica",
-      "descricao": "",
-      "instituicao": "IFSC",
-      "periodo": {
-        "inicio": "2011",
-        "fim": "2015"
-      }
+      "name": "Tícnico em Mecatrônica",
+      "description": "",
+      "location": "IFSC",
+      "period": "2021 - 2025"
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Suporte Técnico",
-      "descricao": "",
-      "instituicao": "Virtualiza",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "08/2022"
-      }
+      "name": "Suporte Técnico",
+      "description": "",
+      "location": "Virtualiza",
+      "period": "2021 - 2022"
     },
     {
-      "nome": "Técnico em Automação",
-      "descricao": "",
-      "instituicao": "Torfresma",
-      "periodo": {
-        "inicio": "09/2022",
-        "fim": "Atualmente"
-      }
+      "name": "Técnico em Automação",
+      "description": "",
+      "location": "Torfresma",
+      "period": "2022 - 2024"
     }
   ]
 }
